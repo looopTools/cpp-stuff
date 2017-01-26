@@ -1,0 +1,6 @@
+
+namespace linked_list
+{
+template<class DataType>
+class
+}
